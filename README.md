@@ -1,4 +1,4 @@
-Михайлов Виталий, lab6
+Бельков Даниил, lab6
 
 ## Laboratory work VI
 
